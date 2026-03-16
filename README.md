@@ -84,6 +84,4 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ## Acknowledgments
 
-This project was created by David Rudin, Assistant General Counsel at Microsoft, drawing on 20+ years of experience in standards, open source, and intellectual property law.
-
-The knowledge base synthesizes and attributes work from many leading scholars and practitioners in the field. See [sources/key-authors.md](sources/key-authors.md) for a directory of contributors to the field whose work informs this resource.
+This project was created by by AI without formal human review.  Use accordingly.
